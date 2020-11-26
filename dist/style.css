@@ -1,0 +1,21 @@
+#main {
+    text-align: center;
+  }
+  #title {
+    color: black;
+  }
+  #image {
+    border: 5px solid #555;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+  }
+  .caption {
+    font-weight: bold;
+    font-size: 30px;
+  }
+  .tribute {
+    color: red;
+    font-weight: bold;
+  }
